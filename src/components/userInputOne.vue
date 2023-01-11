@@ -1,11 +1,14 @@
 <template>
   <div class="container">
-    <label> <input type="checkbox" name="partyid" /> PartyId </label>
+    <label> PartyId <input type="text" name="partyid" /> </label>
   </div>
 </template>
 
 <script>
 export default {
+  data:{
+    partyid,
+  }
   return: {},
 };
 </script>

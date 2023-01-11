@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import HelloWorld from './components/userInputOne.vue';
+import userInputOne from './components/userInputOne.vue';
 
 export default {
   name: 'App',
